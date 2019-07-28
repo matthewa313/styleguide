@@ -38,3 +38,7 @@
 
 ## [NY Times](https://nytimes.com)
 - [Objective-C](https://github.com/nytimes/objective-c-style-guide)
+
+## [w3schools](https://w3schools.com)
+- [HTML](https://www.w3schools.com/html/html5_syntax.asp)
+- [Javascript](https://www.w3schools.com/js/js_conventions.asp)
