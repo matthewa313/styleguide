@@ -4,6 +4,7 @@
 - [Swift](https://github.com/airbnb/swift)
 
 ## [Facebook](https://facebook.com)
+- [C++](https://github.com/facebook/hhvm/blob/master/hphp/doc/coding-conventions.md)
 - [Java](https://github.com/facebook/jcommon/wiki/Coding-Standards)
 
 ## [Github](https://github.com)
