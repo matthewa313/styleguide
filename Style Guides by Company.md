@@ -31,5 +31,8 @@
 ## [LinkedIn](https://linkedin.com)
 - [Swift](https://github.com/linkedin/swift-style-guide)
 
+## [Microsoft](https://microsoft.com)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+
 ## [NY Times](https://nytimes.com)
 - [Objective-C](https://github.com/nytimes/objective-c-style-guide)
