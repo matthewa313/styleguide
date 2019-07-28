@@ -3,6 +3,10 @@
 - [Ruby](https://github.com/airbnb/ruby)
 - [Swift](https://github.com/airbnb/swift)
 
+## [Apple](https://apple.com)
+- [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
+- [Swift](https://swift.org/documentation/api-design-guidelines/)
+
 ## [Facebook](https://facebook.com)
 - [C++](https://github.com/facebook/hhvm/blob/master/hphp/doc/coding-conventions.md)
 - [Java](https://github.com/facebook/jcommon/wiki/Coding-Standards)
@@ -12,12 +16,10 @@
 - [Ruby](https://github.com/github/rubocop-github)
 - [Swift](https://github.com/github/swift-style-guide)
 
-## [Golang](https://github.com/golang)
-- [Go](https://github.com/golang/go/wiki/CodeReviewComments)
-
 ## [Google](https://google.com)
 - [AngularJS](https://google.github.io/styleguide/angularjs-google-style.html)
 - [C++](https://google.github.io/styleguide/cppguide.html)
+- [Go](https://github.com/golang/go/wiki/CodeReviewComments)
 - [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
 - [Java](https://google.github.io/styleguide/javaguide.html)
 - [JavaScript](https://google.github.io/styleguide/jsguide.html)
