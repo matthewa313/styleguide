@@ -7,6 +7,8 @@
 - [Java](https://github.com/facebook/jcommon/wiki/Coding-Standards)
 
 ## [Github](https://github.com)
+- [Objective-C](https://github.com/github/objective-c-style-guide)
+- [Ruby](https://github.com/github/rubocop-github)
 - [Swift](https://github.com/github/swift-style-guide)
 
 ## [Golang](https://github.com/golang)
