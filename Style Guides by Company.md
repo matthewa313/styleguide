@@ -21,3 +21,6 @@
 
 ## [LinkedIn](https://linkedin.com)
 - [Swift](https://github.com/linkedin/swift-style-guide)
+
+## [NY Times](https://nytimes.com)
+- [Objective-C](https://github.com/nytimes/objective-c-style-guide)
