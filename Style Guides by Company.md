@@ -42,3 +42,9 @@
 ## [w3schools](https://w3schools.com)
 - [HTML](https://www.w3schools.com/html/html5_syntax.asp)
 - [Javascript](https://www.w3schools.com/js/js_conventions.asp)
+
+## [Wordpress](https://wordpress.com)
+- [CSS](http://make.wordpress.org/core/handbook/coding-standards/css/)
+- [HTML](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)
+- [JavaScript](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/)
+- [PHP](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
