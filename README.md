@@ -77,7 +77,10 @@ Style guides are a set of guidelines used when writing the source code for a com
 - [Google's Objective-C Style Guide](http://google.github.io/styleguide/objcguide.html)
 - [NYTimes's Objective-C Style Guide](https://github.com/nytimes/objective-c-style-guide)
 
-### Perl Style Guide
+### Pascal
+- [Official Pascal Style Guide](https://wiki.freepascal.org/Coding_style)
+
+### Perl
 - [Official Perl Style Guide](https://perldoc.perl.org/perlstyle.html)
 
 ### PHP
