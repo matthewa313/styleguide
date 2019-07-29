@@ -21,6 +21,7 @@ Contributions are always welcome 👍. Please just make sure to fully read the [
 
 ### C
 - 👥 [Carnegie Mellon's C Style Guide](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
+- 👥 [UC San Diego's C Style Guide](https://cseweb.ucsd.edu/~ricko/CSE30/indhill-cstyle.html)
 - 👥 [Wikibooks's C Style Guide](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
 
 ### C#
