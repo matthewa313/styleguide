@@ -84,6 +84,7 @@ Style guides are a set of guidelines used when writing the source code for a com
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
 ### Ruby
+- [Official Ruby Style Guide](https://rubystyle.guide)
 - [Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby)
 - [Github's Ruby Style Guide](https://github.com/github/rubocop-github)
 
