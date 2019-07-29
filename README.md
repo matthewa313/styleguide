@@ -62,6 +62,9 @@ Style guides are a set of guidelines used when writing the source code for a com
 ### Lisp
 - [Google's Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 
+### Lua
+- [github/luarocks Community Lua Style Guide](https://github.com/luarocks/lua-style-guide)
+
 ### Objective-C
 - [Apple's Objective-C Style Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
 - [Github's Objective-C Style Guide](https://github.com/github/objective-c-style-guide)
