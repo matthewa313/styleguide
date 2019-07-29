@@ -5,6 +5,11 @@ Style guides are a set of guidelines used when writing the source code for a com
 
 ## Guides by Language
 
+### HTML
+- [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [w3schools's Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
+- [Wordpress's Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)
+
 ### Javascript
 - [Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Google's Javascript Style Guide](https://google.github.io/styleguide/jsguide.html)
