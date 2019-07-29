@@ -5,6 +5,13 @@ Style guides are a set of guidelines used when writing the source code for a com
 
 ## Guides by Language
 
+### AngularJS
+- [Official AngularJS Style Guide](https://angular.io/guide/styleguide)
+- [Google's AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
+
+### AppleScript
+- [Official AppleScript Style Guide](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_lexical_conventions.html)
+
 ### C
 - [Carnegie Mellon's C Style Guide](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 - [Wikibook's C Style Guide](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
@@ -24,7 +31,7 @@ Style guides are a set of guidelines used when writing the source code for a com
 - [Wordpress's CSS Style Guide](http://make.wordpress.org/core/handbook/coding-standards/css/)
 
 ### Clojure
-- [github/bbatsov Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - Community style guide
+- [github/bbatsov Community Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 ### HTML
 - [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
@@ -48,7 +55,7 @@ Style guides are a set of guidelines used when writing the source code for a com
 - [Github's Ruby Style Guide](https://github.com/github/rubocop-github)
 
 ### Swift
-- [Swift's own Style Guide](https://swift.org/documentation/api-design-guidelines/) - The language's official style guide
+- [Official Swift Style Guide](https://swift.org/documentation/api-design-guidelines/)
 - [Airbnb's Swift Style Guide](https://github.com/airbnb/swift)
 - [Apple's Swift Style Guide](https://swift.org/documentation/api-design-guidelines/)
 - [Github's Swift Style Guide](https://github.com/github/swift-style-guide)
