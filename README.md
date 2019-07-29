@@ -68,6 +68,9 @@ Style guides are a set of guidelines used when writing the source code for a com
 ### PHP
 - [Wordpress's PHP Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
 
+### Python
+- [Official Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+
 ### R
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
