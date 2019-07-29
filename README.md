@@ -36,6 +36,9 @@ Style guides are a set of guidelines used when writing the source code for a com
 ### Go
 - [Official Go Style Guide](https://github.com/golang/go/wiki/CodeReviewComments)
 
+### Haskell
+- [github/tibbe Community Haskell Style Guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
+
 ### HTML
 - [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [w3schools's Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
@@ -64,6 +67,9 @@ Style guides are a set of guidelines used when writing the source code for a com
 
 ### Lua
 - [github/luarocks Community Lua Style Guide](https://github.com/luarocks/lua-style-guide)
+
+### MATLAB
+- [MATLAB Central Community MATLAB Style Guide](https://www.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0)
 
 ### Objective-C
 - [Apple's Objective-C Style Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
