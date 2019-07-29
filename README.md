@@ -10,3 +10,7 @@ Style guides are a set of guidelines used when writing the source code for a com
 - [Google's Javascript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [w3schools's Javascript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
 - [Wordpress's Javascript Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/)
+
+### Ruby
+- [Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby)
+- [Github's Ruby Style Guide](https://github.com/github/rubocop-github)
