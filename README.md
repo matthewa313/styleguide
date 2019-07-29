@@ -20,6 +20,9 @@ Style guides are a set of guidelines used when writing the source code for a com
 - [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [NASA's C++ Style Guide](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080039927.pdf)
 
+### CSS
+- [Wordpress's CSS Style Guide](http://make.wordpress.org/core/handbook/coding-standards/css/)
+
 ### Clojure
 - [github/bbatsov Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - Community style guide
 
