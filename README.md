@@ -19,6 +19,9 @@ Contributions are always welcome 👍. Please just make sure to fully read the [
 ### AppleScript
 - 🅾️ [Official AppleScript Style Guide](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_lexical_conventions.html)
 
+### Arduino
+- 🅾️ [Official Arduino Style Guide](https://www.arduino.cc/en/Reference/StyleGuide)
+
 ### C
 - 👥 [Carnegie Mellon's C Style Guide](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 - 👥 [UC San Diego's C Style Guide](https://cseweb.ucsd.edu/~ricko/CSE30/indhill-cstyle.html)
