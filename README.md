@@ -81,6 +81,9 @@ Style guides are a set of guidelines used when writing the source code for a com
 ### Shell
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
+### SQL
+- [Community SQL Style Guide](https://www.sqlstyle.guide)
+
 ### Swift
 - [Official Swift Style Guide](https://swift.org/documentation/api-design-guidelines/)
 - [Airbnb's Swift Style Guide](https://github.com/airbnb/swift)
