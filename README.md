@@ -41,6 +41,12 @@ Style guides are a set of guidelines used when writing the source code for a com
 - [w3schools's Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
 - [Wordpress's Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)
 
+### Java
+- [Alibaba's Java™ Style Guide](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/)
+- [Facebook's Java™ Style Guide](https://github.com/facebook/jcommon/wiki/Coding-Standards)
+- [Google's Java™ Style Guide](https://google.github.io/styleguide/javaguide.html)
+- [Oracle's Java™ Style Guide](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
+
 ### Javascript
 - [Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Google's Javascript Style Guide](https://google.github.io/styleguide/jsguide.html)
