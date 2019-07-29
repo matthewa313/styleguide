@@ -16,6 +16,7 @@ Style guides are a set of guidelines used when writing the source code for a com
 
 ### C++
 - [Carnegie Mellon's C++ Style Guide](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html)
+- [Facebook (HHVM)'s C++ Style Guide](https://github.com/facebook/hhvm/blob/master/hphp/doc/coding-conventions.md)
 - [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [NASA's C++ Style Guide](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080039927.pdf)
 
