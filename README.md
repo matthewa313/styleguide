@@ -99,6 +99,7 @@ Contributions are always welcome 👍. Please just make sure to fully read the [
 - 🅾️ [Official Perl Style Guide](https://perldoc.perl.org/perlstyle.html)
 
 ### PHP
+- 🅾️ [Official PHP Style Guide](https://www.php-fig.org/psr/psr-2/)
 - 📇 [Wordpress's PHP Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
 
 ### Python
