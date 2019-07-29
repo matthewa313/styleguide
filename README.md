@@ -9,6 +9,11 @@ Style guides are a set of guidelines used when writing the source code for a com
 - [Carnegie Mellon's C Style Guide](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 - [Wikibook's C Style Guide](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
 
+### C#
+- [dofactory's C# Style Guide](https://www.dofactory.com/reference/csharp-coding-standards)
+- [Microsoft's C# Style Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+- [raywenderlich.com's C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide)
+
 ### C++
 - [Carnegie Mellon's C++ Style Guide](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html)
 - [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
