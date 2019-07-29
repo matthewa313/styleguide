@@ -14,7 +14,7 @@ Contributions are always welcome 👍. Please just make sure to fully read the [
 
 ### AngularJS
 - 🅾️ [Official AngularJS Style Guide](https://angular.io/guide/styleguide)
-- [Google's AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
+- 📇 [Google's AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ### AppleScript
 - 🅾️ [Official AppleScript Style Guide](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_lexical_conventions.html)
@@ -73,6 +73,7 @@ Contributions are always welcome 👍. Please just make sure to fully read the [
 - 🅾️ [Official Kotlin Style Guide](https://kotlinlang.org/docs/reference/coding-conventions.html)
 
 ### Lisp
+- 🅾️ [Official Lisp Style Guide](https://lisp-lang.org/style-guide/)
 - 📇 [Google's Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 
 ### Lua
@@ -94,7 +95,7 @@ Contributions are always welcome 👍. Please just make sure to fully read the [
 - 🅾️ [Official Perl Style Guide](https://perldoc.perl.org/perlstyle.html)
 
 ### PHP
-- [Wordpress's PHP Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
+- 📇 [Wordpress's PHP Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
 
 ### Python
 - 🅾️ [Official Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
@@ -104,8 +105,8 @@ Contributions are always welcome 👍. Please just make sure to fully read the [
 
 ### Ruby
 - 🅾️ [Official Ruby Style Guide](https://rubystyle.guide)
-- [Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby)
-- [Github's Ruby Style Guide](https://github.com/github/rubocop-github)
+- 📇 [Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby)
+- 📇[Github's Ruby Style Guide](https://github.com/github/rubocop-github)
 
 ### Shell
 - 📇 [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
