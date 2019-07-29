@@ -14,7 +14,7 @@ Style guides are a set of guidelines used when writing the source code for a com
 
 ### C
 - [Carnegie Mellon's C Style Guide](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
-- [Wikibook's C Style Guide](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
+- [Wikibooks's C Style Guide](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
 
 ### C#
 - [dofactory's C# Style Guide](https://www.dofactory.com/reference/csharp-coding-standards)
@@ -115,3 +115,6 @@ Style guides are a set of guidelines used when writing the source code for a com
 
 ### Vimscript
 - [Google's Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
+
+### Visual Basic
+- [Official Visual Basic Style Guide](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/program-structure/coding-conventions)
